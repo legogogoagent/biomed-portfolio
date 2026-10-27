@@ -17,7 +17,7 @@
   <img src="assets/badges/A06-redstone-engineer.svg" width="54" alt="红石工程师">
 </p>
 
-> 学习过程和草稿保留在私有仓库；这里只放完成并审查过的项目。
+> 完整学习过程在 [BiomedCraft](https://github.com/legogogoagent/biomed-quest)；这里只放完成并审查过的项目。
 > Minecraft-inspired. Not affiliated with Mojang or Microsoft. 不使用官方素材。
 
 </div>
